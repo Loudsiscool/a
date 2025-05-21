@@ -1,4 +1,4 @@
-<h1 align="left">Saber Alter Boss Rush Tutorial</h1>
+<h1 align="left">Sukuna Boss Rush Tutorial</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="350" src="https://i.postimg.cc/x11Y4cyy/Image.webp"  />
+<img align="left" height="300" src="https://i.postimg.cc/x11Y4cyy/Image.webp"  />
 
 ###
 
